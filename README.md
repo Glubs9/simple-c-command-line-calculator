@@ -20,3 +20,6 @@ lex.h: lexer (splits the input into tokens/splits the input into numbers and ope
 parse.h: converts tokens into reverse polish notation.          
 rpn.h: runs a reverse polish notation input.                   
 constants.h: holds the constant MAX_NUM_SIZE and also some debugging functions and the function is_operator.
+
+# what i learnt from this
+not much, but I have just now learnt how header files are supposed to be used and this is not how. rip
